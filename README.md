@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usamah Hafizh</h1>
+<h1 align="center">Hi 👋, I'm Usamah </h1>
 <h3 align="center">A passionate fullstack javascript developer</h3>
 
 - 📫 How to reach me **hakaro375@gmail.com**
