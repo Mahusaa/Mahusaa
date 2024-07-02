@@ -1,4 +1,4 @@
-# 💫 About Me:
+<center> # 💫 Iam Usamah Hafizh: </center>
 Starting with JavaScript in 2022, I've learned by doing, building practical projects to solidify my skills. Now, I'm curently dive into TypeScript. Its static typing and advanced features will help me write cleaner, more reliable code, taking my development to the next level.
 
 
