@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Mahusaa)
+[![](https://visitcount.itsvg.in/api?id=Mahusaa&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
   # 💫 Iam Usamah Hafizh: 
 Starting with JavaScript in 2023, I've learned by doing, building practical projects to solidify my skills. Now, I'm curently dive into TypeScript. Its static typing and advanced features will help me write cleaner, more reliable code, taking my development to the next level.
 
