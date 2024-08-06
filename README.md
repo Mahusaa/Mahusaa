@@ -17,7 +17,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :technologist: **Currently working on** `Fullstack Dev` mainly in `JS env and Go`
-- :boom: You can visit [MY WEBSITE](usamah-hafizh.vercel.app) for my portofolio
+- :boom: You can visit [MY WEBSITE]([usamah-hafizh.vercel.app](https://usamah-hafizh.vercel.app/)) for my portofolio
 - :nerd_face: Always believe `"Sucks tutorial HELL"`
 
 <br>
@@ -25,8 +25,34 @@
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 <br>
 
