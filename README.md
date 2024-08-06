@@ -14,8 +14,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
 - :technologist: **Currently working on** `Fullstack Dev` mainly in `JS env and Go`
 - :boom: You can visit [MY WEBSITE]([usamah-hafizh.vercel.app](https://usamah-hafizh.vercel.app/)) for my portofolio
 - :nerd_face: Always believe `"Sucks tutorial HELL"`
