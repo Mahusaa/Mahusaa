@@ -22,35 +22,33 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px">  </picture> Programming languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178C6)
+![GO](https://img.shields.io/badge/-GO-000?&logo=Go&logoColor=00ADD8)
+![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
 ### Frontend development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=FFFFFF)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI&logoColor=0081CB)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind-CSS&logoColor=38B2AC)
+
 ### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&logoColor=17202C)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FF6C37)
 
 ### Databases:
-&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoColor=DC382D)
 
 <br>
 
