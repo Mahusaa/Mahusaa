@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Usamah/h1></summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Usamah</h1></summary>
   </ul>
 </div>
 
@@ -53,6 +53,10 @@
 </tr>
 </table>
 
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
+
 <br>
 
 <!--profile visit count-->
@@ -67,8 +71,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
------------
-
-Credit: [ElioChiu](https://github.com/ElioChiu)
-
-Last Edited on: 10/7/2023
